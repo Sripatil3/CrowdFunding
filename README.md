@@ -16,7 +16,7 @@ Lodash - Utility functions
 React Toastify - Notifications
 Getting Started 🚀
 1️⃣ Clone the repo:
-git clone https://github.com/your-username/crowd-funding-frontend.git
+https://github.com/Sripatil3/CrowdFunding
 2️⃣ Install dependencies:
 npm install
 3️⃣ Run the app:
